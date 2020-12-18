@@ -1,0 +1,10 @@
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\bin\Debug\EX-4-lista-1-V2.exe.config
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\bin\Debug\EX-4-lista-1-V2.exe
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\bin\Debug\EX-4-lista-1-V2.pdb
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX-4-lista-1-V2.csprojAssemblyReference.cache
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX_4_lista_1_V2.Form1.resources
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX_4_lista_1_V2.Properties.Resources.resources
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX-4-lista-1-V2.csproj.GenerateResource.cache
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX-4-lista-1-V2.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX-4-lista-1-V2.exe
+C:\Users\yohan\Desktop\2°lista de PRCA2\EX-4-LISTA-1-V2\EX-4-lista-1-V2\obj\Debug\EX-4-lista-1-V2.pdb
